@@ -1,0 +1,6 @@
+{
+  "name": "BM × WALK",
+  "description": "Premium outdoor walking companion with real-time GPS tracking, sports analytics, and Aurora Glass design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
